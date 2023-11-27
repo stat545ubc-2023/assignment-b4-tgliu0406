@@ -6,6 +6,8 @@ This repository is a collection of materials and code related to my STAT 545B as
 
 This repository contains the work I've done for assignment B4. It includes plots of the most common words in Pride & Prejudice by Jane Austen, and a function of the newly designed pig latin transformation.
 
+To play around with the Pig Latin function, please clone this project to your local device and run the assignment_4.Rmd file. 
+
 ## Getting Started
 
 The following files have been created and reside within the GitHub repository:
